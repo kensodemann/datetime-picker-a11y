@@ -6,6 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
+  startdate: string;
+  starttime: string;
+  minute15 = true;
 
   constructor() {}
 
