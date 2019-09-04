@@ -1,0 +1,7 @@
+{
+  "name": "bma-datetime-picker-v4",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
